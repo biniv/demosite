@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Test site of Biniv Maskay"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Work.qmd
+      - Source.qmd
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    css: styles.css
+    toc: true
+
+
+
