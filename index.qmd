@@ -1,41 +1,46 @@
 ---
-title: "demosite"
+title: "Biniv K. Maskay"
 image: mypic.png
 resources: resume.pdf
 about:
-  template: jolla
-  image-shape: round
-  image-width: 15em
+  template: trestles
+  image-shape: rectangle
+  image-width: 12em
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    # https://icons.getbootstrap.com 
+    # for icons
+    - icon: envelope
+      text: Email
+      href: mailto:binivmaskay@gmail.com
+    # - icon: twitter
+    #   text: twitter
+    #   href: https://twitter.com
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
     - text: resume
       icon: file-text
       href: resume.pdf
   id: ppc
 ---
 
-:::{#ppc}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+::: {#ppc}
+I'm an Associate Professor of Economics at Loras College in Dubuque, IA, USA.
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+**University of Kentucky** \| Lexington, KY |
+PhD in Economics \| August 2008 - August 2012
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+**Illinois Wesleyan University** \| Bloomington, IL |
+B.A in Economics \| August 2003 - May 2007
+
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Associate Professor of Economics \| August 2016 - Present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
+Assistant Professor of Economics \| August 2012 - August 2012 
 :::
+
 

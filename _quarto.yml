@@ -3,19 +3,33 @@ project:
   output-dir: docs
   
 website:
-  title: "Test site of Biniv Maskay"
+  title: "Test site"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - Work.qmd
       - Source.qmd
-
+ ## Sidebar examples      
+ # sidebar:
+ #    style: "docked"
+ #    search: true
+ #    contents:
+ #      - section: "Basics"
+ #        contents:
+ #          - index.qmd
+ #          - basics-knitr.qmd
+ #          - basics-jupyter.qmd
+ #      - section: "Layout"
+ #        contents:
+ #          - layout.qmd
+ #          - layout-knitr.qmd
+ #          - layout-jupyter.qmd
 format:
   html:
     theme: sandstone
     mainfont: arial
-    fontsize: 1.5rem
+    fontsize: 1.2rem
     css: styles.css
     toc: true
 
