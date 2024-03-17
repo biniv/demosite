@@ -4,8 +4,8 @@ image: mypic.png
 resources: resume.pdf
 about:
   template: trestles
-  image-shape: rectangle
-  image-width: 12em
+  image-shape: rounded
+  image-width: 18em
   links:
     # https://icons.getbootstrap.com 
     # for icons
@@ -41,6 +41,8 @@ B.A in Economics \| August 2003 - May 2007
 Associate Professor of Economics \| August 2016 - Present
 
 Assistant Professor of Economics \| August 2012 - August 2012 
+
+Short-term Consultant | The World Bank | 2015
 :::
 
 

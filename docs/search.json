@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Biniv K. Maskay",
-    "section": "",
-    "text": "Email\n  \n  \n    \n     resume\n  \n\n  \n  \nI’m an Associate Professor of Economics at Loras College in Dubuque, IA, USA.\n\n\nUniversity of Kentucky | Lexington, KY | PhD in Economics | August 2008 - August 2012\nIllinois Wesleyan University | Bloomington, IL | B.A in Economics | August 2003 - May 2007\n\n\n\nAssociate Professor of Economics | August 2016 - Present\nAssistant Professor of Economics | August 2012 - August 2012"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "Source.html",
     "href": "Source.html",
     "title": "Source",
     "section": "",
     "text": "From the YouTube channel of Joshua Frech (jfrench.github.io/demosite)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Biniv K. Maskay",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     resume\n  \n\n  \n  \nI’m an Associate Professor of Economics at Loras College in Dubuque, IA, USA.\n\n\nUniversity of Kentucky | Lexington, KY | PhD in Economics | August 2008 - August 2012\nIllinois Wesleyan University | Bloomington, IL | B.A in Economics | August 2003 - May 2007\n\n\n\nAssociate Professor of Economics | August 2016 - Present\nAssistant Professor of Economics | August 2012 - August 2012\nShort-term Consultant | The World Bank | 2015"
   },
   {
     "objectID": "index.html#education",
@@ -32,7 +25,7 @@
     "href": "index.html#experience",
     "title": "Biniv K. Maskay",
     "section": "",
-    "text": "Associate Professor of Economics | August 2016 - Present\nAssistant Professor of Economics | August 2012 - August 2012"
+    "text": "Associate Professor of Economics | August 2016 - Present\nAssistant Professor of Economics | August 2012 - August 2012\nShort-term Consultant | The World Bank | 2015"
   },
   {
     "objectID": "Work.html",
@@ -40,5 +33,12 @@
     "title": "Work",
     "section": "",
     "text": "Associate Professor of Economics at Loras Colleges"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
